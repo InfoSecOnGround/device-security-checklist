@@ -9,6 +9,10 @@ Primariry Language: 繁體中文 Tranditional Chinese / 廣東話 Cantonese
 
 Target audience: General public
 
+# Contents
+- [📱手機、平板篇](mobile.md)
+- [💻電腦篇](computer.md)
+
 # Contribution Needed
 - Infographic's needed!!!!
 - Just fork as wish. Pull request is welcome.
